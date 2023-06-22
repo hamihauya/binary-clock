@@ -13,7 +13,7 @@ User lang set: English
 2 counts of white LED\
 2 counts of 220 Ohm resistor
 ## Main ##
-1 count of Arduino UNO\
+1 count of Arduino UNO
 ## Ooutput page ###
 6 counts of red LED\
 6 counts of 220 Ohm resistor\
