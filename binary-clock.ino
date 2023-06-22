@@ -23,10 +23,10 @@ const int digitFst[4] = {
 };
 
 const int swUpper = A0;
-const int swDowner = A1;
+const int swDowner = A2;
 const int led1 = 10;
 const int led2 = 9;
-const int swNext = A2;
+const int swNext = A1;
 
 
 
