@@ -7,7 +7,7 @@ User lang set: English
 
 # Needs to this product
 ## Input page ##
-3 counts of switch\
+3 counts of 4-leg switch\
 3 counts of 10k Ohm resistor\
 3 counts of 10u Farad condensor\
 2 counts of white LED\
