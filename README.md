@@ -5,6 +5,19 @@ Create date: 2023-03-12\
 Modified date: 2023-06-20\
 User lang set: English
 
+# How to use this product #
+Red: Hour\
+Blue: Minute\
+Green: Second\
+\
+Up button\
+White: View of time unit which can be changed now by user\
+____00 - No power\
+____10 - Hour\
+____11 - Minute\
+____01 - Second\
+Down button
+
 # Needs to this product
 ## Input page ##
 3 counts of 4-leg switch\
