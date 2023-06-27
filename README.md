@@ -36,4 +36,4 @@ Down button
 7 counts of 220 Ohm resistor
 
 # Map of circuit
-[Circuit](20230627_195538~2.jpg)
+[circuit_map.jpg](circuit_map.jpg)
