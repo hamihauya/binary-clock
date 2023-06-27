@@ -21,3 +21,6 @@ User lang set: English
 7 counts of 220 Ohm resistor\
 7 counts of blue LED\
 7 counts of 220 Ohm resistor
+
+# Map of circuit
+![Circuit](20230627_195538~2.jpg)
