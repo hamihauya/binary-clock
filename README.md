@@ -11,6 +11,8 @@ User lang set: English
 
 ## Perfboard ##
 ![Perfboard](images/example2_over.jpg)\
+![Perfboard](images/example2_under.jpg)\
+Flip direction: ↕
 
 # How to use this product #
 Red: Hour\
